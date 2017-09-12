@@ -1,3 +1,4 @@
 # for testing the master branch
 # git+git://github.com/svenevs/exhale.git#egg=exhale
 exhale
+sphinx-bootstrap-theme
